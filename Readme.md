@@ -102,7 +102,7 @@ H2 is an in-memory RDBMS ideal for dev/testing.
 ## 🚀 Getting Started
 - Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/springboot-security-app.git
+   https://github.com/Nitakshi/Spring-Security.git
    cd springboot-security-app
    
 - Build the project:
