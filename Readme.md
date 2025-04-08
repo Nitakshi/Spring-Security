@@ -1,6 +1,6 @@
 # Basic Spring Boot Security Application
 
-This Spring Boot project demonstrates **role-based authentication and authorization** using **Spring Security**, with users stored in an **H2 in-memory database**. It features stateless session management and includes both `@PreAuthorize` and `@PostAuthorize` security annotations for method-level access control.
+This Spring Boot project demonstrates **role-based authentication and authorization** using **Spring Security**, with users stored in an **H2 in-memory database**. It features stateless session management and includes `@PreAuthorize` security annotations for method-level access control.
 
 ---
 ### 📋 Prerequisites
