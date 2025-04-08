@@ -99,7 +99,7 @@ H2 is an in-memory RDBMS ideal for dev/testing.
    http.csrf(AbstractHttpConfigurer::disable);
    http.headers(headers -> headers.frameOptions().sameOrigin());
 
-## 🚀 Getting Started
+## Setup
 - Clone the repository:
    ```bash
    https://github.com/Nitakshi/Spring-Security.git
